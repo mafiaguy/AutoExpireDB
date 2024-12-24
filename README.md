@@ -14,5 +14,8 @@
 
 You can install this package via pip (once it's published):
 
+
 ```bash
-pip AutoExpireDB
+pip install AutoExpireDB
+```bash
+https://pypi.org/project/AutoExpireDB/#description
